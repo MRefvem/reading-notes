@@ -49,7 +49,29 @@ Changes to content. `<ins>` `<del>` used to show where you've made changes in a 
 
 ### Duckett HTML & CSS Chapter 10: "Introducing CSS"
 
-Test here
+- What CSS does
+- How CSS works
+- Rules, properties, and values
+
+The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element. CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
+
+CSS associates style rules with HTML elements. CSS properties affect how elements are displayed.
+
+There are two ways to use CSS: externally and internally. It's important for a programmer to know both methods. The `<link>` element is used in an HTML document to tell the browser where to find the CSS file that is referenced to style the page. Internally you can designate CSS rules within an HTML file by using the `<style>` element. When building a site with more than one page, you should use an external CSS style sheet because this allows all pages to use the same style rules. It also means you can keep the content separate from how the page looks and means you can change the styles used across all pages by altering just one file(rather than each individual page).
+
+Review of CSS Selectors. ???
+
+How CSS Rules Cascade. CSS will prioritize certain lines of codes over others based on **Last Rule**, **Specificity** and **Important**
+
+Last Rule: If the two selectors are identical, the latter of the two will take precedence. Specificity: If one selector is more specific than the others, the more specific rule will take precedence over more general ones (eg. `h1` is more specific than `*` and `p#intro` is more specific than `p`). Imporant: You can add `!important` after any property value to indicate that it should be considered more important than other rules that apply to the same element.
+
+Inheritance. Some rules, like font-families once declared are inherited by child elements.
+
+There are several advantages to placing your CSS rules in a separate style sheet.
+
+In the same way that there have been several versions of HTML, there have also been different versions of CSS. Browsers did not implement all CSS features at once, so some older browsers do not support every property. This is mentioned when it is likely to affect you, along with notes where CSS properties might not behave as expected.
+
+When a CSS property does not display as expected, it is generally referred to as a **browser quirk** or **CSS bug**. You can test your new site before launching in more than one browser to see if there are slight differences.
 
 ### Duckett JavaScript & JQuery Chapter 2: "Basic JavaScript Instructions"
 
