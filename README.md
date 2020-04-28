@@ -5,7 +5,7 @@ Hi I'm Michael and these are my **Code 201 Reading Notes**. Every day I will pos
 ### Table of Contents
 
 - [Reading Assignment 1](class-01.md)
-- [Reading Assignment 2]()
+- [Reading Assignment 2](class-02.md)
 - [Reading Assignment 3]()
 - [Reading Assignment 4]()
 - [Reading Assignment 5]()
