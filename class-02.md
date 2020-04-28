@@ -75,4 +75,31 @@ When a CSS property does not display as expected, it is generally referred to as
 
 ### Duckett JavaScript & JQuery Chapter 2: "Basic JavaScript Instructions"
 
+The language: Syntax and Gammar. Like any new language, there are new words to learn (the vocabulary) and rules for how these can be put together (the grammar and syntax of the language). Giving instructions: for a browser to follow. Web browsers (and computers in general) approach tasks in a very different way than a human might. Your instructions need to reflect how computers get things done.
+
+Each individual instruction that your write into your script is called a **statement**. You can write **comments** into your script which makes it easier to keep track of what your code is doing while you're making it up. `// comments go here`
+
+Variables are bits of data that you can store temporarily so that your script can do its job. You need to give the computer a very detailed list of instructions, so the varibles have to be carefully declared. A variable is a good name for this concept because the data stored in a variable can change (or vary) each time a script runs.
+
+Smmary Basic JavaScript Instructions
+
+- A script is made up of a series of statements. Each statement is like a step in a recipe.
+- Scripts contain very precise instructions. For example, you might specify that a value must be remembered before creating a calculation using that value.
+- Variables are used to temporarily store pieces of information used in the script.
+- Arrays are special types of variables that store more than one piece of related information.
+- JavaScript distinguishes between numbers (0-9), strings (text), and Boolean values (true or false).
+- Expressions evaluate into a single value.
+- Expressions rely on operators to calculate a value.
+
 ### Duckett JavaScript & JQuery Chapter 4: "Decisions and Loops"
+
+Summary Decisions & Loops
+
+- Conditional statements allow your code to make decisions about what to do next.
+- Comparison operators (`===, !==, ==, !=, <, >, <=, =>`) are used to compare to operands.
+- Logical operators allow you to combine more than one set of comparison operators.
+- if...else statements allow you to run one set of code if a condition is true, and another if it is false.
+- switch statements allow you to compare a value against possible outcomes(and also provides a default option if none match).
+- Data types can be coerced from one type to another.
+- All values evaluate to either truthy or falsy.
+- There are three types of loop: for, while, and do...while. Each repeats a set of statements.
