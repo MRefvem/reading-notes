@@ -59,3 +59,23 @@ If you want to center a box on the page (or center it inside the element that it
 
 ### Duckett JavaScript & JQuery Chapter 4: "Decisions and Loops"
 
+#### If...else statements
+
+The **if...else** statement checks a condition. If it resolves to **true** the first code block is executed. If the condition resolves to **false** the second code block is run instead.
+
+#### Switch statements
+
+A **switch** statement starts with a variable called the **switch value**. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+
+#### Loops
+Loops check a condition. If it returns **true**, a code block will run. Then the condition will be checked again and if it still returns **true**, the code block will run again. It repeats until the condition returns **false**. There are three common types of loops:
+
+- **For**. If you need to run code a specific number of times, use a **for** loop. (It is the most common loop.) In a **for** loop, the condition is usually a counter which is used to tell how many times the loop should run.
+- **While**. If you do not know how many times the code should run, you can use a **while** loop. Here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is **true**.
+- **Do While**. The **do...while** loop is very similar to the **while** loop, but has one key difference: it will always run the statements inside the curly braces at least once, even if the condition evaluates to **false**.
+
+#### Summary: Decisions & Loops
+- Switch statements allow you to compare a value against possible outcomes(and also provides a default option if none match).
+- Data types can be coerced from one type to another.
+- All values evaluate to either truthy or falsy.
+- There are three types of loop: for, while , and do...while. Each repeats a set of statements.
