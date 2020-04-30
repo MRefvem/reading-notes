@@ -31,3 +31,11 @@ Summary: Functions, Methods, and Objects
 - Web browsers implement objects that represent both the browser window and the document loaded into the browser window.
 - JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts.
 - Arrays and objects can be used to create complex data sets (and both can contain the other).
+
+Browsers require very detailed instructions about what we want them to do. Therefore, complex scripts can run to hundreds (even thousands) of lines. Programmers use functions, methods, and objects to organize their code.
+
+- Functions & Methods: Functions consist of a series of statements that have been grouped together because they perform a specific task. A method is the same as a function, except methods are created inside (and are part of) and object.
+- Objects: In Chapter 1 you saw that programmers use objects to create models of the world using data, and that objects are made up of properties and methods.
+- Built-In Objects: The browser comes with a set of objects that act like a toolkit for creating interactive web pages. This section introduces you to a number of built-in objects.
+
+Must declare and call the function.
