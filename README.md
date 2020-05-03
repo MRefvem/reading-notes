@@ -9,7 +9,7 @@ Hi I'm Michael and these are my **Code 201 Reading Notes**. Every day I will pos
 - [Reading Assignment 3](class-03.md)
 - [Reading Assignment 4](class-04.md)
 - [Reading Assignment 5](class-05.md)
-- [Reading Assignment 6]()
+- [Reading Assignment 6](class-06.md)
 - [Reading Assignment 7]()
 - [Reading Assignment 8]()
 - [Reading Assignment 9]()
