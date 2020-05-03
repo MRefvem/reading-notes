@@ -68,7 +68,42 @@ As a browser loads a web page, it creates a model of that page. The model is cal
 The Document node - The starting point for all visits to the DOM tree.
 The Element nodes - HTML elements describe the structure of an HTML page.
 Attribute nodes - Attribue nodes are not *children* of the element that carries them; the are *part of* that element.
-Text nodes - Once you have accessed an element node, you can then reach the text within that element. No further branches of the DOM tree can come off of the text nodes. 
+Text nodes - Once you have accessed an element node, you can then reach the text within that element. No further branches of the DOM tree can come off of the text nodes.
+
+Working with the DOM tree
+Accessing and updating the DOM tree involves two steps:
+1. Locate the node that represents the element you want to work with.
+2. Use its text content, child elements, and attributes.
+
+Step 1: Access the elements
+- Select an individual element node
+- Select multiple elements (nodelists)
+- Traversing between element nodes
+Step 2: Work with those elements
+- Access/update text nodes
+- Work with HTML content
+- Access or update attribute values
+
+#### Caching DOM Queries
+Methods that find elements in the DOM tree are called DOM queries. When you need to work with an element more than once, you should use a variable to store the result of this query. When people talk about storing elements in variables, they are really storing the location of the element(s) within the DOM tree in a variable. The properites and methods of that element node work on the variable.
+
+#### Accessing elements
+DOM queries may return one element, or they may return a Nodelist, which is a collection of nodes.
+
+Nodelists: Dom queries that return more than one element.
+When a DOM method *can* return more than one element, it returns a NodeList (even if it only finds one matching element).
+
+Selecting an element from a NodeList
+There are two ways to select an element from a NodeList:
+- The `item()` method and array syntax.
+Both require the index of the element you want.
+Array syntax is preferred over the `item()` method because it is faster.
+Before selecting a node from a NodeList, check that it contains nodes.
+If you repeatedly use the NodeList, store it in a variable.
+
+Selecting elements using class attributes
+Selecting elements by tag name
+Selecting elements by using CSS selectors
 
 #### Summary Document Object Model
 - The browser represents the page using a DOM tree.
