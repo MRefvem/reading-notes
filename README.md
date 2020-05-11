@@ -14,11 +14,11 @@ Hi I'm Michael and these are my **Code 201 Reading Notes**. Every day I will pos
 - [Reading Assignment 8](class-08.md)
 - [Reading Assignment 9](class-09.md)
 - [Reading Assignment 10](class-10.md)
-- [Reading Assignment 11]()
-- [Reading Assignment 12]()
-- [Reading Assignment 13]()
-- [Reading Assignment 14]()
-- [Reading Assignment 15]()
+- [Reading Assignment 11](class-11.md)
+- [Reading Assignment 12](class-12.md)
+- [Reading Assignment 13](class-13.md)
+- [Reading Assignment 14](class-14.md)
+- [Reading Assignment 15](class-15.md)
 
 >Its fine to celebrate success but it is more imporant to heed the lessons of failure. - Bill Gates
 
