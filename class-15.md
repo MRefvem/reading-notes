@@ -1,4 +1,4 @@
-# Class 15 Reading 
+# Class 15 Reading Notes
 
 ### Article: "What Google Learned From Its Quest to Build the Perfect Team"
 
