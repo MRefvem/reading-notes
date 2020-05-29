@@ -1,10 +1,20 @@
 # Code 201 Reading Notes.
 
-Hi I'm Michael and these are my **Code Fellows Reading Notes**. Every day I will post a new reading assignment.
+Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programming, I come from an extensive background in Classical Piano and have two degrees, a Bachelor of Music from Western Washington University and a Master of Music from Manhattan School of Music. I am really excited to be starting a new life as a web programmer and hope you enjoy this first site. Every day I will post a new reading assignment.
 
 ### Table of Contents
 
 ## Code 102 - Intro to Software Development
+
+- [GrowthMindsetDefined](growth-mindset-defined.md)
+- [ChoosingATextEditorClass2Reading](choosing-a-text-editor.md)
+- [RevisionsAndTheCloudClass3Reading](revisions-and-the-cloud-class3.md)
+- [StructuredWebPagesWithHTMLClass4Reading](structured-web-pages-html-reading.md)
+- [DesignWebPagesWithCSSClass5Reading](design-web-pages-with-CSS-Class5.md)
+- [DynamicWebPagesWithJavaScript](read:06-dynamic-web-pages-with-JavaScript.md)
+- [ComputerArchitectureandLogic](computer-architecture-and-logic.md)
+- [ProgrammingWithJavaScript](programming-with-javascript.md)
+- [OperatorsAndLoops](operators-and-loops.md)
 
 ## Code 201 - Foundations of Software Development
 
