@@ -1,8 +1,12 @@
 # Code 201 Reading Notes.
 
-Hi I'm Michael and these are my **Code 201 Reading Notes**. Every day I will post a new reading assignment.
+Hi I'm Michael and these are my **Code Fellows Reading Notes**. Every day I will post a new reading assignment.
 
 ### Table of Contents
+
+## Code 102 - Intro to Software Development
+
+## Code 201 - Foundations of Software Development
 
 - [Reading Assignment 1](class-01.md)
 - [Reading Assignment 2](class-02.md)
@@ -19,6 +23,10 @@ Hi I'm Michael and these are my **Code 201 Reading Notes**. Every day I will pos
 - [Reading Assignment 13](class-13.md)
 - [Reading Assignment 14](class-14.md)
 - [Reading Assignment 15](class-15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
 
 >Its fine to celebrate success but it is more imporant to heed the lessons of failure. - Bill Gates
 
