@@ -6,15 +6,15 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 
 ## Code 102 - Intro to Software Development
 
-- [GrowthMindsetDefined](growth-mindset-defined.md)
-- [ChoosingATextEditorClass2Reading](choosing-a-text-editor.md)
-- [RevisionsAndTheCloudClass3Reading](revisions-and-the-cloud-class3.md)
-- [StructuredWebPagesWithHTMLClass4Reading](structured-web-pages-html-reading.md)
-- [DesignWebPagesWithCSSClass5Reading](design-web-pages-with-CSS-Class5.md)
-- [DynamicWebPagesWithJavaScript](read:06-dynamic-web-pages-with-JavaScript.md)
-- [ComputerArchitectureandLogic](computer-architecture-and-logic.md)
-- [ProgrammingWithJavaScript](programming-with-javascript.md)
-- [OperatorsAndLoops](operators-and-loops.md)
+- [Growth Mindset Defined](growth-mindset-defined.md)
+- [Choosing a Text Editor](choosing-a-text-editor.md)
+- [Revisions and the Cloud](revisions-and-the-cloud-class3.md)
+- [Structured Web Pages With HTML](structured-web-pages-html-reading.md)
+- [Design Web Pages With CSS](design-web-pages-with-CSS-Class5.md)
+- [Dynamic Web Pages With JavaScript](read:06-dynamic-web-pages-with-JavaScript.md)
+- [Computer Architecture and Logic](computer-architecture-and-logic.md)
+- [Programming With JavaScript](programming-with-javascript.md)
+- [Operators and Loops](operators-and-loops.md)
 
 ## Code 201 - Foundations of Software Development
 
