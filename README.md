@@ -11,7 +11,7 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 - [Revisions and the Cloud](revisions-and-the-cloud-class3.md)
 - [Structured Web Pages With HTML](structured-web-pages-html-reading.md)
 - [Design Web Pages With CSS](design-web-pages-with-CSS-Class5.md)
-- [Dynamic Web Pages With JavaScript](read:06-dynamic-web-pages-with-JavaScript.md)
+- [Dynamic Web Pages With JavaScript](read:06-JavaScript.md)
 - [Computer Architecture and Logic](computer-architecture-and-logic.md)
 - [Programming With JavaScript](programming-with-javascript.md)
 - [Operators and Loops](operators-and-loops.md)
