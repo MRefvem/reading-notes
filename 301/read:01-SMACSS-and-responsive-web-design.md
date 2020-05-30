@@ -26,14 +26,21 @@ Within responsive design the most commonly used features include `min-width` and
 [https://css-tricks.com/all-about-floats/](https://css-tricks.com/all-about-floats/)
 
 
-What is "Float"?
+### What is "Float"?
 Float is a CSS positioning property. To understand its purpose and origin, we can look to print design. In a print layout, images may be set into the page such that text wraps around them as needed. This is commonly and appropriately called "text wrap".
 
 In web design, page elements with the CSS float property applied to them are just like the images in the print layout where the text flows around them. Floated elements remain a part of the flow of the web page. This is distinctly different than page elements that use absolute positioning.
 
+There are four valid values for the float property. Left and Right float elements those directions respectively. None (the default) ensures the element will not float and Inherit which will assume the float value from that elements parent element.
+
+### Clearing the Float
+Float's sister property is clear. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
+
 
 ## Article: Don't Overthink It Grids
 [https://css-tricks.com/dont-overthink-it-grids/](https://css-tricks.com/dont-overthink-it-grids/)
+
+If a more complex layout presents itself, people often reach for a grid framework.
 
 
 
