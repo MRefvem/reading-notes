@@ -36,6 +36,8 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 
 ## Code 301 - Intermediate Software Development
 
+- [Read:01 - SMACSS and Responsive Web Design](301/read:01-SMACSS-and-responsive-web-design.md)
+
 ## Code 401 - Advanced Software Development
 
 >Its fine to celebrate success but it is more imporant to heed the lessons of failure. - Bill Gates
