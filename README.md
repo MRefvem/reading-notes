@@ -1,4 +1,4 @@
-# Code 201 Reading Notes.
+# Code Fellows Reading Notes.
 
 Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programming, I come from an extensive background in Classical Piano and have two degrees, a Bachelor of Music from Western Washington University and a Master of Music from Manhattan School of Music. I am really excited to be starting a new life as a web programmer and hope you enjoy this first site. Every day I will post a new reading assignment.
 
