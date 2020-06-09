@@ -42,6 +42,7 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 - [Read:04 - Responsive Web Design and Regular Expressions](301/read:04-responsive-web-design-and-regular-expressions.md)
 - [Read:05 - Heroku Deployment](301/read:05-heroku-deployment.md)
 - [Read:06 - Node, Express, and APIs](301/read:06-node-express-and-apis.md)
+- [Read:07 - APIs Continued](301/read:07-apis-continued.md)
 
 ## Code 401 - Advanced Software Development
 
