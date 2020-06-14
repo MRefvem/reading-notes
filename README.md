@@ -46,6 +46,7 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 - [Read:08 - SQL](301/read:08-sql.md)
 - [Read:09 - Refactoring](301/read:09-refactoring.md)
 - [Read:10 - The Call Stack and Debugging](301/read:10-the-call-stack-and-debugging.md)
+- [Read:11 - EJS](301/read:11-ejs.md)
 
 ## Code 401 - Advanced Software Development
 
