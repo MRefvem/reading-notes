@@ -50,6 +50,12 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 
 ## Code 401 - Advanced Software Development
 
+- [Read:05 - Review](401/read:05-oop-principles-review.md)
+- [Read:06 - Interfaces/OOP principles](401/read:06-interfaces-object-oriented-principles.md)
+- [Read:07 - Collections and Enums](401/read:07-collections-and-enums.md)
+- [Read:08 - LINQ](401/read:08-LINQ.md)
+- [Read:09 - Stacks and Queues](401/read:09-stacks-and-queues.md)
+
 >Its fine to celebrate success but it is more imporant to heed the lessons of failure. - Bill Gates
 
 ![Coding-Image](https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
