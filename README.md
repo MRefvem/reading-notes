@@ -50,11 +50,20 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 
 ## Code 401 - Advanced Software Development
 
+- [Read:01 - Unit Tests & Documentation](401/read:01-unit-tests-and-documentation.md)
+- [Read:02 - System I.O.](401/read:02-system-I-O.md)
+- [Read:03 - Classes & Objects](401/read:03-classes-and-objects.md)
+- [Read:04 - Linked Lists](401/read:04-linked-lists.md)
 - [Read:05 - Review](401/read:05-oop-principles-review.md)
 - [Read:06 - Interfaces/OOP principles](401/read:06-interfaces-object-oriented-principles.md)
 - [Read:07 - Collections and Enums](401/read:07-collections-and-enums.md)
 - [Read:08 - LINQ](401/read:08-LINQ.md)
 - [Read:09 - Stacks and Queues](401/read:09-stacks-and-queues.md)
+- [Read:10 - MVC](401/read:10-MVC.md)
+- [Read:11 - Relational Databases](401/read:11-relational-databases.md)
+- [Read:12 - Code First Migrations](401/read:12-code-first-migrations.md)
+- [Read:13 - Into to APIs](401/read:13-intro-to-APIs.md)
+- [Read:14 - Trees](401/read:14-trees.md)
 
 >Its fine to celebrate success but it is more imporant to heed the lessons of failure. - Bill Gates
 
