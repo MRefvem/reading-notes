@@ -64,6 +64,15 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 - [Read:12 - Code First Migrations](401/read:12-code-first-migrations.md)
 - [Read:13 - Into to APIs](401/read:13-intro-to-APIs.md)
 - [Read:14 - Trees](401/read:14-trees.md)
+- [Read: Claims and JWT](401/read-claims-and-jwt.md)
+- [Read: Data Transfer Objects](401/read-data-transfer-objects.md)
+- [Read: Intro to Identity](401/read-intro-to-identity.md)
+- [Read: Testing and Swagger](401/read-testing-and-swagger.md)
+- [Read:26 - Bootstrap and MVC](401/read:26-bootstrap-and-mvc.md)
+- [Read: Razor Pages](401/read-razor-pages.md)
+- [Read: Layouts](401/read-layouts.md)
+- [Read: Policies](401/read-policies.md)
+- [Read: Hash Tables](401/read-hash-tables.md)
 
 >Its fine to celebrate success but it is more imporant to heed the lessons of failure. - Bill Gates
 
