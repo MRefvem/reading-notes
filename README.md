@@ -69,10 +69,15 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 - [Read: Intro to Identity](401/read-intro-to-identity.md)
 - [Read: Testing and Swagger](401/read-testing-and-swagger.md)
 - [Read:26 - Bootstrap and MVC](401/read:26-bootstrap-and-mvc.md)
-- [Read: Razor Pages](401/read-razor-pages.md)
-- [Read: Layouts](401/read-layouts.md)
-- [Read: Policies](401/read-policies.md)
-- [Read: Hash Tables](401/read-hash-tables.md)
+- [Read:27 - Razor Pages](401/read-razor-pages.md)
+- [Read:28 - Layouts](401/read-layouts.md)
+- [Read:29 - Policies](401/read-policies.md)
+- [Read:30 - Hash Tables](401/read-hash-tables.md)
+- [Read:31 - View Components](401/read:31-view-components.md)
+- [Read:32 - OAUTH](401/read:32-OAUTH.md)
+- [Read:33 - Sass](401/read:33-Sass.md)
+- [Read:34 - Auth.NET](401/read:34-Auth.NET.md)
+- [Read:35 - Graphs](401/read:35-Graphs.md)
 
 >Its fine to celebrate success but it is more imporant to heed the lessons of failure. - Bill Gates
 
