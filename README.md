@@ -75,6 +75,7 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 - [Read:30 - Hash Tables](401/read-hash-tables.md)
 - [Read:31 - View Components](401/read:31-view-components.md)
 - [Read:32 - OAUTH](401/read:32-OAUTH.md)
+- [Read - DSA Review](401/read-DSA-review.md)
 - [Read:33 - Sass](401/read:33-Sass.md)
 - [Read:34 - Auth.NET](401/read:34-Auth.NET.md)
 - [Read:35 - Graphs](401/read:35-Graphs.md)
