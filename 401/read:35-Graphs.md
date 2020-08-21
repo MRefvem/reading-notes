@@ -127,5 +127,5 @@ Graphs are extremely popular when it comes to it's uses. Here are a few examples
 2. Driving Directions
 3. Social Networks
 4. Airline Traffic
-5. Netflix uses graphs for suggestions of 
+5. Netflix uses graphs for suggestions of different movies
 
