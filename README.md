@@ -60,7 +60,7 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 - [Read:08 - LINQ](401/read:08-LINQ.md)
 - [Read:09 - Stacks and Queues](401/read:09-stacks-and-queues.md)
 - [Read:10 - MVC](401/read:10-MVC.md)
-- [Read:11 - Relational Databases](401/read:11-relational-databases.md)
+- [Read:11 - Relational Databases](401/*85read:11-relational-databases.md)
 - [Read:12 - Code First Migrations](401/read:12-code-first-migrations.md)
 - [Read:13 - Into to APIs](401/read:13-intro-to-APIs.md)
 - [Read:14 - Trees](401/read:14-trees.md)
