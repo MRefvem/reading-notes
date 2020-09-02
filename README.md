@@ -79,6 +79,7 @@ Hi I'm Michael and these are my **Code Fellows Reading Notes**. New to programmi
 - [Read:33 - Sass](401/read:33-Sass.md)
 - [Read:34 - Auth.NET](401/read:34-Auth.NET.md)
 - [Read:35 - Graphs](401/read:35-Graphs.md)
+- [Read:42 - Ethics](401/read:42-Ethics.md)
 
 >Its fine to celebrate success but it is more imporant to heed the lessons of failure. - Bill Gates
 
